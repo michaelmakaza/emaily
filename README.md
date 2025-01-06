@@ -24,7 +24,7 @@ I'm a passionate DevOps Engineer with a strong interest in web development, clou
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/michael-fungai-makaza-57b2b4146/)
+- [LinkedIn](https://www.linkedin.com/in/michael-makaza-0160572b/)
 
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
